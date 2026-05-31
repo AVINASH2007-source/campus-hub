@@ -49,7 +49,7 @@ export default function EventsPage() {
       <nav className="navbar anim-fade-in">
         <a href="/" className="navbar-brand">
           <div className="brand-icon">🎓</div>
-          <span className="brand-name">CampusHub</span>
+          <span className="brand-name">EventXpert</span>
         </a>
         <div className="navbar-actions">
           {canOrganize && (
